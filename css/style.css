@@ -68,10 +68,10 @@ background-position: left;
     margin-bottom: 0;
     padding-bottom: 4px;
     font-size: 30px;
-    color: lightsalmon;
+    color: white;
 }
 .banner-content h1{
-    color: floralwhite;
+    color: #0775B3;
     padding: 0;
     margin-top: 0;
     margin-bottom: 0;
@@ -80,7 +80,7 @@ background-position: left;
 .banner-content p:nth-last-child(2){
 	margin-top: 0;
     font-size: 18px;
-    color: cyan;
+    color: white;
     line-height: 1.5;
 
 }
@@ -92,6 +92,7 @@ background-position: left;
     margin-top: 16px;
     font-size: 15px;
     text-transform: uppercase;
+    cursor: pointer;
 }
 .banner-content button span{
 	background-color: blue;
@@ -124,13 +125,11 @@ background-position: left;
 }
 #img1{
 	width: 100%;
-	border-right: 1px solid white;
 
 }
 #img2{
 	width: 100%;
-	border-left: 5px solid white;
-
+    height: 80px;
 }
 .icon-content{
     width: 65%;
@@ -144,6 +143,7 @@ background-position: left;
     text-transform: capitalize;
     margin-top: 0px;
     margin: 12px;
+    margin-left: 4px;
 }
 .icon-content h2{
 	font-weight: normal;
@@ -151,7 +151,7 @@ background-position: left;
     font-family: sans-serif;
     text-transform: capitalize;
     font-size: 22px;
-    padding-left: 8px;
+    padding-left: 2px;
     margin-top: -10px;
 }
 .content {
